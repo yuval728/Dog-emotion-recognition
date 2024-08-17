@@ -26,3 +26,8 @@ This project uses PyTorch for model development and Gradio for the user interfac
 ```bash
 git clone https://github.com/Yuval728/dog-emotion-classifier.git
 cd dog-emotion-classifier
+```
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
